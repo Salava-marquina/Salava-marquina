@@ -1,5 +1,13 @@
 ## Hi there👋 this Salva Marquina
 
+<h3 align="center">
+<h3 align="center"> ECE Student  · Creative Technologist · Exploring AI </h3>
+</h3>
+---
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Salava-marquina&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  
+</div>
 
 <!--
 **Salava-marquina/Salava-marquina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
