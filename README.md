@@ -1,7 +1,7 @@
-## Hi there👋 this Salva Marquina
+## Hi there👋 this Naman Shah
 
 <h3 align="center">
-<h3 align="center"> ECE Student  · Creative Technologist · Exploring AI </h3>
+<h3 align="center"> ECE Student  · Creative  · Exploring AI and learning python </h3>
 </h3>
 
 <div align="center">
