@@ -1,7 +1,7 @@
-## Hi there👋 this Naman Shah
+## 👋 Hi! Welcome to my profile
 
 <h3 align="center">
-<h3 align="center"> ECE Student  · Creative  · Exploring AI and learning python </h3>
+<h3 align="center">  ECE Student  · Creative Technologist  · Exploring AI . Python Developer </h3>
 </h3>
 
 <div align="center">
