@@ -1,4 +1,4 @@
-## 👋 Hi! Welcome to my profile
+## <h3 align="center">  Hi! Welcome to my profile </h3>
 
 <h3 align="center">
 <h3 align="center">  ECE Student  · Creative Technologist  · Exploring AI . Python Developer </h3>
