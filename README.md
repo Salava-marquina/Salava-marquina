@@ -1,7 +1,7 @@
 ## <h3 align="center">  Hi! Welcome to my profile </h3>
 
 <h3 align="center">
-<h3 align="center">  ECE Student  · Creative Technologist  · Exploring AI . Python Developer . Cyvbersecurity Enthuassit  </h3>
+<h3 align="center">  ECE Student  · Creative Technologist  · Exploring AI . Python Developer . Cybersecurity enthusiastic  </h3>
 </h3>
 
 - 🔭 I’m currently working on Python
