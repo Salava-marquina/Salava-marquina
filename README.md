@@ -1,11 +1,11 @@
 ## <h3 align="center">  Hi! Welcome to my profile </h3>
 
 <h3 align="center">
-<h3 align="center">  ECE Student  · Creative Technologist  · Exploring AI . Python Developer . Cybersecurity enthusiastic  </h3>
+<h3 align="center">  ECE Student  · Creative Technologist  · Exploring AI . Python  and Cybersecurity enthusiastic  </h3>
 </h3>
 
-- 🔭 I’m currently working on Python
-- 🌱 I’m currently learning Python frameworks
+- 🔭 I’m currently working on Cybersecurity
+- 🌱 I’m currently learning Computer Networks and Security 
 - 👯 I’m looking to collaborate on  Open Source contibution on preferably Python 
 - 🤔 I’m looking for help with open Source Contributions
  <div align="center">
