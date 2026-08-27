@@ -70,16 +70,14 @@ CLEARANCE .... LEVEL — OBSERVER
 
 ## 🎯 ACTIVE OPERATIONS
 
-| CODENAME | STACK | OBJECTIVE |
-|:--|:--:|:--|
-| `OPERATION GRID SENTINEL` | `ESP32` `MQTT` `Node-RED` `InfluxDB` `Grafana` | Real-time room-level energy & CO₂ emission monitoring with occupancy-based auto-cutoff |
-| `OPERATION CLEAN SIGNAL` | `Python` `NumPy` `Matplotlib` | PAPR reduction in OFDM via clipping-and-filtering, for 5G/6G signal chains |
-| `OPERATION COMPANION` | `TypeScript` `React` `Tailwind` `Framer Motion` | Pet-care app — habit tracking, recipe suggestions, vet finder via Overpass API |
-| `OPERATION [NAME]` | `tech` `tech` | slot in your next build here |
-
-> *Swap in repo links as you publish each one — this is what recruiters actually click through to.*
-
+| PROJECT | STACK | OBJECTIVE |
+|:--|:--|:--|
+| Real-Time Energy & Carbon Monitoring System `Grid Sentinel` | `ESP32` `MQTT` `Node-RED` `InfluxDB` `Grafana` | Live per-room power, CO₂, and temperature monitoring with carbon-emission tracking (occupancy-based auto-cutoff in progress) |
+| PAPR Reduction in OFDM Systems `Clean Signal` | `Python` `NumPy` `Matplotlib` | Performance analysis of clipping-and-filtering based PAPR reduction for OFDM |
+| Pet-Pal — Pet Care Web App `Companion` | `TypeScript` `React` `Tailwind` `Framer Motion` | Dog profiles, habit tracking, recipe suggestions, and a vet finder built on the Overpass API |
+> *Swap in repo links as you publish each one.*
 <br/>
+
 
 ## 📡 LIVE STATUS UPLINK
 
