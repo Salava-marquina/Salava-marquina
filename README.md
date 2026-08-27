@@ -1,28 +1,116 @@
-## <h3 align="center">  Hi! Welcome to my profile </h3>
+<div align="center">
 
-<h3 align="center">
-<h3 align="center">  ECE Student  · Creative Technologist  · Exploring AI . Python  and Cybersecurity enthusiastic  </h3>
-</h3>
-
-- 🔭 I’m currently working on Cybersecurity
-- 🌱 I’m currently learning Computer Networks and Security 
-- 👯 I’m looking to collaborate on  Open Source contibution on preferably Python 
-- 🤔 I’m looking for help with open Source Contributions
- <div align="center">
-    <img src="https://streak-stats.demolab.com?user=Salava-marquina&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+```
+┌──────────────────────────────────────────────────────────────────┐
+│  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  │
+│                                                                    │
+│           ▓▓▓   B L U E   P H A N T O M   ▓▓▓                     │
+│           ──────────────────────────────────────                 │
+│           [ CYBERSECURITY OPERATIVE // STATUS: ACTIVE ]           │
+│                                                                    │
+│           > invisible in the network.                             │
+│           > unseen by the threat.                                 │
+│           > always watching.                                      │
+│                                                                    │
+│  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  │
+└──────────────────────────────────────────────────────────────────┘
+```
 
 </div>
-<!--
-**Salava-marquina/Salava-marquina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔵 OPERATIVE BRIEFING
+
+> **NAME:** Naman Shah // **CALLSIGN:** Blue Phantom
+> **ROLE:** Final-year ECE student, RVITM (VTU) — building toward cybersecurity & network defense
+> **LAST SEEN:** inside the pipeline, between the commits.
+
+I watch the network, monitor the workflows, and step in the moment something looks wrong. No black-hat theatrics — just quiet, deliberate blue-team work: detection, defense, and the discipline to automate what should run without me watching it.
+
+```
+IDENTITY ..... NAMAN SHAH
+CALLSIGN ..... BLUE PHANTOM
+ROLE ......... FINAL-YEAR ECE STUDENT // BLUE TEAM OPERATIVE
+DOMAIN ....... NETWORK DEFENSE // SECURE AUTOMATION
+CLEARANCE .... LEVEL — OBSERVER
+```
+
+<br/>
+
+## 🔐 SECURE COMMS
+
+| CHANNEL | CONTACT |
+|:--|:--|
+| 📡 GitHub | `github.com/Salava-marquina` |
+| ✉️ Email | `[ insert your real email ]` |
+| 💼 LinkedIn | `[ insert your LinkedIn URL ]` |
+| 📄 Resume | `[ insert a link to your resume ]` |
+| 🌐 Portfolio | `[ insert your portfolio link, if you have one ]` |
+
+<br/>
+
+## 🛡️ CORE CAPABILITIES
+
+| DOMAIN | TOOLS DEPLOYED |
+|:--|:--|
+| 🔐 Blue Team Ops | `SIEM basics` `log triage` `incident response` |
+| 📡 Network Defense | `packet inspection` `firewall rules` `IDS/IPS` |
+| ⚙️ Scripting & Automation | `Python` `Bash` `GitHub Actions` |
+| 🧠 Detection & Monitoring | `anomaly detection` `alerting pipelines` |
+| ☁️ Infra & Deployment | `CI/CD` `containerized workloads` |
+
+> *Edit this table with your real stack — these are placeholder categories to swap out.*
+
+<br/>
+
+## 🎯 ACTIVE OPERATIONS
+
+| CODENAME | STACK | OBJECTIVE |
+|:--|:--:|:--|
+| `OPERATION GRID SENTINEL` | `ESP32` `MQTT` `Node-RED` `InfluxDB` `Grafana` | Real-time room-level energy & CO₂ emission monitoring with occupancy-based auto-cutoff |
+| `OPERATION CLEAN SIGNAL` | `Python` `NumPy` `Matplotlib` | PAPR reduction in OFDM via clipping-and-filtering, for 5G/6G signal chains |
+| `OPERATION COMPANION` | `TypeScript` `React` `Tailwind` `Framer Motion` | Pet-care app — habit tracking, recipe suggestions, vet finder via Overpass API |
+| `OPERATION [NAME]` | `tech` `tech` | slot in your next build here |
+
+> *Swap in repo links as you publish each one — this is what recruiters actually click through to.*
+
+<br/>
+
+## 📡 LIVE STATUS UPLINK
+
+*Refreshed automatically by the `BLUE PHANTOM — Status Uplink` workflow. Do not edit by hand — anything inside the markers below is overwritten on the next sync.*
+
+<!--BP:STATUS:START-->
+| METRIC | VALUE |
+|:--|:--|
+| 🛰️ STATUS | AWAITING FIRST SYNC |
+| 🔐 REPOS MONITORED | — |
+| ⭐ SIGNALS DETECTED | — |
+| 🌐 LAST UPLINK | — |
+| 🎯 THREAT LEVEL | — |
+<!--BP:STATUS:END-->
+
+<br/>
+
+## 🕶️ INTEL LOG — OPERATION HISTORY
+
+*Refreshed automatically by the `BLUE PHANTOM — Sentinel Watch` workflow whenever a status sync completes. Most recent 5 entries kept.*
+
+<!--BP:ALERTLOG:START-->
+> No operations logged yet.
+<!--BP:ALERTLOG:END-->
+
+<br/>
+
+<div align="center">
+
+```
+──────────────────────────────────────────────
+  invisible in the network.
+  unseen by the threat.
+  always watching.
+──────────────────────────────────────────────
+```
+
+</div>
