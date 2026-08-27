@@ -85,11 +85,11 @@ CLEARANCE .... LEVEL — OBSERVER
 <!--BP:STATUS:START-->
 | METRIC | VALUE |
 |:--|:--|
-| 🛰️ STATUS | AWAITING FIRST SYNC |
-| 🔐 REPOS MONITORED | — |
-| ⭐ SIGNALS DETECTED | — |
-| 🌐 LAST UPLINK | — |
-| 🎯 THREAT LEVEL | — |
+| 🛰️ STATUS | ONLINE |
+| 🔐 REPOS MONITORED | 4 |
+| ⭐ SIGNALS DETECTED | 0 |
+| 🌐 LAST UPLINK | 2026-08-27 04:35 UTC |
+| 🎯 THREAT LEVEL | 🟢 GREEN — all systems nominal |
 <!--BP:STATUS:END-->
 
 <br/>
