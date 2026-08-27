@@ -110,7 +110,7 @@ CLEARANCE .... LEVEL — OBSERVER
 ──────────────────────────────────────────────
   invisible in the network.
   unseen by the threat.
-  always watching it .
+  always watching  .
 ──────────────────────────────────────────────
 ```
 
