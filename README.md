@@ -43,22 +43,26 @@ CLEARANCE .... LEVEL — OBSERVER
 | CHANNEL | CONTACT |
 |:--|:--|
 | 📡 GitHub | `github.com/Salava-marquina` |
-| ✉️ Email | `[ insert your real email ]` |
-| 💼 LinkedIn | `[ insert your LinkedIn URL ]` |
+| ✉️ Email | `[ namanshah1426@gmail.com ]` |
+| 💼 LinkedIn | `[ https://www.linkedin.com/in/naman-shah-8b156428a/ ]` |
 | 📄 Resume | `[ insert a link to your resume ]` |
 | 🌐 Portfolio | `[ insert your portfolio link, if you have one ]` |
 
 <br/>
 
+
+
 ## 🛡️ CORE CAPABILITIES
 
-| DOMAIN | TOOLS DEPLOYED |
+| DOMAIN | TOOLS & EXPERIENCE |
 |:--|:--|
-| 🔐 Blue Team Ops | `SIEM basics` `log triage` `incident response` |
-| 📡 Network Defense | `packet inspection` `firewall rules` `IDS/IPS` |
-| ⚙️ Scripting & Automation | `Python` `Bash` `GitHub Actions` |
-| 🧠 Detection & Monitoring | `anomaly detection` `alerting pipelines` |
-| ☁️ Infra & Deployment | `CI/CD` `containerized workloads` |
+| ⚙️ Scripting & Automation | `Python` `Bash` `GitHub Actions` `Flask` |
+| 🔐 Security Fundamentals | `Kali Linux` `Burp Suite` `OWASP` `Wireshark` `Nmap` |
+| 🌐 Networking | `TCP/IP` `Subnetting` `VLANs` `Routing (OSPF)` |
+| 🤖 AI/ML Integration | `BioCLIP` `Gemini AI` `LLM-based reasoning` |
+| 🔗 Systems & Protocols | `SHA-256 PoW` `P2P architecture` `REST APIs` |
+
+> *Built on real coursework and shipped projects — not aspirational tooling.*
 
 > *Edit this table with your real stack — these are placeholder categories to swap out.*
 
