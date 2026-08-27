@@ -45,8 +45,8 @@ CLEARANCE .... LEVEL — OBSERVER
 | 📡 GitHub | `github.com/Salava-marquina` |
 | ✉️ Email | `[ namanshah1426@gmail.com ]` |
 | 💼 LinkedIn | `[ https://www.linkedin.com/in/naman-shah-8b156428a/ ]` |
-| 📄 Resume | `[ insert a link to your resume ]` |
-| 🌐 Portfolio | `[ insert your portfolio link, if you have one ]` |
+| 📄 Resume | `[https://drive.google.com/file/d/1nGhJn9AsjRExZaLJ_e3IFHVrI42B5y63/view?usp=sharing ]` |
+| 🌐 Portfolio | `[ https://naman-portfolio-ecru-nu.vercel.app/ ]` |
 
 <br/>
 
