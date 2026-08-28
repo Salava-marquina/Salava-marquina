@@ -92,8 +92,8 @@ CLEARANCE .... LEVEL — OBSERVER
 | 🛰️ STATUS | ONLINE |
 | 🔐 REPOS MONITORED | 4 |
 | ⭐ SIGNALS DETECTED | 0 |
-| 🌐 LAST UPLINK | 2026-08-28 02:00 UTC |
-| 🎯 THREAT LEVEL | 🟢 GREEN — all systems nominal |
+| 🌐 LAST UPLINK | 2026-08-28 18:07 UTC |
+| 🎯 THREAT LEVEL | 🟡 YELLOW — minor anomaly under review |
 <!--BP:STATUS:END-->
 
 <br/>
