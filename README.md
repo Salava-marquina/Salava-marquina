@@ -66,7 +66,7 @@
 <!-- ![Top contributed repo](https://github-contributor-stats.vercel.app/api?username=Salava-marquina&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)-->
 
 </div>
-### Profile views
+
 <p align="center"><sub>Last synced: <!--SYNCED_START-->—<!--SYNCED_END--></sub></p>
 <p align="center">
   <img
