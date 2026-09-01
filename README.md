@@ -39,8 +39,9 @@
 <!--STATS_END-->
 
 <img src="https://github-readme-stats.shion.dev/api?username=Salava-marquina&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<div>
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Salava-marquina&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
-
+</div>
 </div>
 
 ### 🏆 GitHub Trophies
