@@ -2,11 +2,12 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2800&pause=1200&color=6C7A96&center=true&vCenter=true&width=480&lines=Building+secure%2C+practical+systems.;Currently+exploring%3A+cybersecurity.;Some+builds+stay+under+wraps." alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="50%">
+
 <br><br>
 
 # Naman Shah
 ### ECE Student · Cybersecurity & Python
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="50%">
 <div >
 <p align="center"> <img src="https://octodex.github.com/images/inspectocat.jpg" alt="Octocat" width="100" align="right"  /> </p>
 </div> </div>
