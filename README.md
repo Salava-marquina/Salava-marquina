@@ -78,7 +78,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Salava-marquina/Salava-marquina/output/github-contribution-grid-cute-mascot.jpeg"
+    src="https://raw.githubusercontent.com/Salava-marquina/Salava-marquina/output/github-contribution-grid-snake.svg"
     alt="GitHub Contribution Snake"
   />
 </p>
