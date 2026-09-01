@@ -7,8 +7,7 @@
 
 # Naman Shah
 ### ECE Student · Cybersecurity & Python
-![inspectocat](https://octodex.github.com/inspectocat/)
-<img src="https://octodex.github.com/inspectocat/" width="200" align="right" alt="Octocat">
+<p align="center"> <img src="https://octodex.github.com/images/inspectocat.jpg" alt="Octocat" width="200" /> </p>
 </div>
 
 ---
