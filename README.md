@@ -2,6 +2,9 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2800&pause=1200&color=6C7A96&center=true&vCenter=true&width=480&lines=Building+secure%2C+practical+systems.;Currently+exploring%3A+cybersecurity.;Some+builds+stay+under+wraps." alt="Typing SVG" />
 
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500">
+<br><br>
+
 # Naman Shah
 ### ECE Student · Cybersecurity & Python
 
@@ -61,11 +64,11 @@
 
 ### 🔝 Top Contributed Repo
 
-<div align="center">
+<!--<div align="center">
  <p align="center"> <a href="https://github-contributor-stats.vercel.app"> <img src="https://github-contributor-stats.vercel.app/api?username=Salava-marquina&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true" alt="Top Contributed Repo" /> </a> </p>  
 <!-- ![Top contributed repo](https://github-contributor-stats.vercel.app/api?username=Salava-marquina&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)-->
 
-</div>
+<!--</div> -->
 
 <p align="center"><sub>Last synced: <!--SYNCED_START-->—<!--SYNCED_END--></sub></p>
 <p align="center">
