@@ -38,6 +38,9 @@
 <img src="https://streak-stats.demolab.com?user=Salava-marquina&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&cache_bust=0" height="150" alt="streak graph" />
 <!--STATS_END-->
 
+<img src="https://github-readme-stats.vercel.app/api?username=Salava-marquina&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="150" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salava-marquina&layout=compact&theme=dracula&hide_border=true" height="150" alt="Top languages" />
+
 </div>
 
 <p align="center"><sub>Last synced: <!--SYNCED_START-->—<!--SYNCED_END--></sub></p>
