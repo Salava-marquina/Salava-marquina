@@ -35,11 +35,27 @@
 <!--FOCUS_END-->
 
 <!--STATS_START-->
-<img src="https://streak-stats.demolab.com?user=Salava-marquina&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&cache_bust=0" height="150" alt="streak graph" />
+<img src="https://streak-stats.demolab.com/?user=Salava-marquina&theme=midnight-purple&hide_border=false&cache_bust=0" alt="Streak stats" />
 <!--STATS_END-->
 
-<img src="https://github-readme-stats.vercel.app/api?username=Salava-marquina&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="150" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salava-marquina&layout=compact&theme=dracula&hide_border=true" height="150" alt="Top languages" />
+<img src="https://github-readme-stats.shion.dev/api?username=Salava-marquina&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Salava-marquina&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
+
+</div>
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Salava-marquina&theme=shades-of-purple&no-frame=false&no-bg=true&margin-w=4&row=1&column=8)
+
+</div>
+
+### 🔝 Top Contributed Repo
+
+<div align="center">
+
+![Top contributed repo](https://github-contributor-stats.vercel.app/api?username=Salava-marquina&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)
 
 </div>
 

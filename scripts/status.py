@@ -38,9 +38,9 @@ def main():
 
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     stats_img = (
-        f'<img src="https://streak-stats.demolab.com?user=Salava-marquina'
-        f'&locale=en&mode=daily&theme=dracula&hide_border=false'
-        f'&border_radius=5&cache_bust={today}" height="150" alt="streak graph" />'
+        f'<img src="https://streak-stats.demolab.com/?user=Salava-marquina'
+        f'&theme=midnight-purple&hide_border=false'
+        f'&cache_bust={today}" alt="Streak stats" />'
     )
     text = replace_between(
         text, "<!--STATS_START-->", "<!--STATS_END-->", stats_img,
