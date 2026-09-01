@@ -7,7 +7,8 @@
 
 # Naman Shah
 ### ECE Student · Cybersecurity & Python
-
+![Octocat Name](https://octodex.github.com/images/octocat-filename.png)
+<img src="https://octodex.github.com/images/octocat-filename.png" width="200" align="right" alt="Octocat">
 </div>
 
 ---
