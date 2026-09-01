@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2800&pause=1200&color=6C7A96&center=true&vCenter=true&width=480&lines=Building+secure%2C+practical+systems.;Currently+exploring%3A+cybersecurity.;Some+builds+stay+under+wraps." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2800&pause=1200&color=6C7A96&center=true&vCenter=true&width=480&lines=Building+secure%2C+practical+systems.;Instrested+in%3A+cybersecurity.;Some+builds+stay+under+wraps." alt="Typing SVG" />
 
 
 <br><br>
