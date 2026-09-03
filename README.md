@@ -46,7 +46,7 @@
 <!--<img src="https://github-readme-stats.shion.dev/api?username=Salava-marquina&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true/"> -->
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=salava-marquina&show_icons=true&theme=midnight"
+    src="https://github-stats-extended.vercel.app/api?username=salava-marquina&show_icons=true&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
     alt="Naman's GitHub Stats"
   />
 </p>
