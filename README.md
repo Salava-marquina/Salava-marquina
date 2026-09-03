@@ -43,7 +43,14 @@
 <img src="https://streak-stats.demolab.com/?user=Salava-marquina&theme=midnight-purple&hide_border=false&cache_bust=0" alt="Streak stats" />
 <!--STATS_END-->
 <div>
-<img src="https://github-readme-stats.shion.dev/api?username=Salava-marquina&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true/"> </div>
+<!--<img src="https://github-readme-stats.shion.dev/api?username=Salava-marquina&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true/"> -->
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=salava-marquina&show_icons=true&theme=tokyonight"
+    alt="Naman's GitHub Stats"
+  />
+</p>
+</div>
 <div>
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Salava-marquina&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
 </div>
