@@ -51,14 +51,10 @@
 
 ### 🏆 GitHub Trophies
 
-<div align="center">
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-trophies.vercel.app/?username=Salava-marquina"
-      alt="GitHub Trophies"
-    />
-  </a>
+<div align="center"> 
+<p align="center"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-trophies.vercel.app/?username=Salava-marquina" alt="GitHub Trophies" /> 
+</a> 
 </p>
 <!--![Trophies](https://github-profile-trophy.vercel.app/?username=Salava-marquina&theme=shades-of-purple&no-frame=false&no-bg=true&margin-w=4&row=1&column=8)
 
