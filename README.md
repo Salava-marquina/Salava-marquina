@@ -20,6 +20,26 @@
 - 💬 Open to discussing anything security or automation related
 
 <div align="center">
+<p align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+      alt="Python" 
+      />
+  </a>
+
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
+      alt="Linux"
+    />
+  </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
+      alt="Git"
+    />
+  </a>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
